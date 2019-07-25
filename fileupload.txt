@@ -1,0 +1,11 @@
+	<div class="form-row">
+				<div class="jst-material-input-file">
+				  <div class="mdl-shadow--6dp">
+					<div class="file-upload mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--accent">
+			    	<span>UPLOAD PROFILE PICTURE</span>
+			      	<input type="file" name="FileAttachment" id="FileAttachment" class="upload" />
+				    </div>
+				    <input type="text" id="fileuploadurl" disabled="" style="background-color: white;" placeholder="">
+				  </div>
+				</div>
+			</div>
